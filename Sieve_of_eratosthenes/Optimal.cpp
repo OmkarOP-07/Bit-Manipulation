@@ -16,6 +16,8 @@ void printAllPrimeTIllN(int N){
             }
         }
     }
+
+    // Print all prime numbers (that is non zero remaining numbers)
     for (int i = 0; i < N; i++)
     {
         if(prime[i] == 1)
