@@ -28,6 +28,6 @@ void printAllPrimeTIllN(int N){
 
 int main()
 {
-   // printAllPrimeTIllN(30);
+   printAllPrimeTIllN(30);
  return 0;
 }
