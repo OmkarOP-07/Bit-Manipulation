@@ -24,7 +24,7 @@ double myPow(double x, int n)
 
 int main()
 {
-    double ans = myPow(2.000, 2);
+    double ans = myPow(2.100, 2);
     cout<<"The result is "<<ans;
  return 0;
 }
